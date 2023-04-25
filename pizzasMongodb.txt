@@ -1,0 +1,276 @@
+[
+    {
+        "name":"PEPPER BARBECUE CHICKEN",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"
+           ],
+        "prices":[
+            {
+                "small":200,
+                "medium" :300,
+                "large" :450
+            }
+        ],
+        "category":"non-veg",
+        "image":"https://img.freepik.com/free-photo/large-mixed-pizza-with-meat_140725-1274.jpg?w=740&t=st=1681239402~exp=1681240002~hmac=2561cd7780de6b1c43060f938d6bc265ae69037214c33d40d0b01fb866613761",
+        "description":"Pepper Barbecue Chicken I Cheese"
+    },
+    {
+        "name":"Cheese Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":150,
+                "medium" :200,
+                "large" :350
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_623344781.jpg.webp",
+        "description":"It should be no shocker that a classic is the statistical favorite."
+    },
+    {
+        "name":"Veggie Pizza",
+        "varients":[
+            "small" ,
+            "medium",
+            "large"],
+        "prices":[
+            {
+                "small":200,
+                "medium" :300,
+                "large" :400
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_570541132.jpg.webp",
+        "description":"Everything from peppers and mushrooms, to eggplant and onions make for an exciting and tasty veggie pizza."
+    },
+    {
+        "name":"BBQ Chicken Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":200,
+                "medium" :300,
+                "large" :450
+            }
+        ],
+        "category":"non-veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_184944413.jpg.webp",
+        "description":"The chicken slathered over the top of a pie gives it a tangy, sweet flavor that can’t be beaten."
+    },
+    {
+        "name":"Meat Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":200,
+                "medium" :350,
+                "large" :450
+            }
+        ],
+        "category":"non-veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_548340295.jpg.webp",
+        "description":"Pile on ground beef and sausage for a hearty meal."
+    },
+    {
+        "name":"Hawaiian Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":100,
+                "medium" :200,
+                "large" :250
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_313437680.jpg.webp",
+        "description":"Pineapple might not be the first thing that comes to mind when you think pizza."
+    },
+    {
+        "name":"Supreme Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":120,
+                "medium" :250,
+                "large" :350
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_244706695.jpg.webp",
+        "description":"The “supreme” refers to the litany of toppings that come scattered on these pies, from sausage to vegetables to pepperoni. And it’s the combination of the flavors that really makes it sing.Pineapple might not be the first thing that comes to mind when you think pizza."
+    },
+    {
+        "name":"The Works Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":160,
+                "medium" :250,
+                "large" :360
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_84904876.jpg.webp",
+        "description":"The “works” usually involves a wide variety of veggie toppings including onions, olives, and mushrooms, plus bacon and pepperoni."
+    },
+    {
+        "name":"PEPPER BARBECUE CHICKEN",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"
+           ],
+        "prices":[
+            {
+                "small":200,
+                "medium" :300,
+                "large" :450
+            }
+        ],
+        "category":"non-veg",
+        "image":"https://img.freepik.com/free-photo/large-mixed-pizza-with-meat_140725-1274.jpg?w=740&t=st=1681239402~exp=1681240002~hmac=2561cd7780de6b1c43060f938d6bc265ae69037214c33d40d0b01fb866613761",
+        "description":"Pepper Barbecue Chicken I Cheese"
+    },
+    {
+        "name":"Cheese Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":150,
+                "medium" :200,
+                "large" :350
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_623344781.jpg.webp",
+        "description":"It should be no shocker that a classic is the statistical favorite."
+    },
+    {
+        "name":"Veggie Pizza",
+        "varients":[
+            "small" ,
+            "medium",
+            "large"],
+        "prices":[
+            {
+                "small":200,
+                "medium" :300,
+                "large" :400
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_570541132.jpg.webp",
+        "description":"Everything from peppers and mushrooms, to eggplant and onions make for an exciting and tasty veggie pizza."
+    },
+    {
+        "name":"BBQ Chicken Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":200,
+                "medium" :300,
+                "large" :450
+            }
+        ],
+        "category":"non-veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_184944413.jpg.webp",
+        "description":"The chicken slathered over the top of a pie gives it a tangy, sweet flavor that can’t be beaten."
+    },
+    {
+        "name":"Meat Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":200,
+                "medium" :350,
+                "large" :450
+            }
+        ],
+        "category":"non-veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_548340295.jpg.webp",
+        "description":"Pile on ground beef and sausage for a hearty meal."
+    },
+    {
+        "name":"Hawaiian Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":100,
+                "medium" :200,
+                "large" :250
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_313437680.jpg.webp",
+        "description":"Pineapple might not be the first thing that comes to mind when you think pizza."
+    },
+    {
+        "name":"Supreme Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":120,
+                "medium" :250,
+                "large" :350
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_244706695.jpg.webp",
+        "description":"The “supreme” refers to the litany of toppings that come scattered on these pies, from sausage to vegetables to pepperoni. And it’s the combination of the flavors that really makes it sing.Pineapple might not be the first thing that comes to mind when you think pizza."
+    },
+    {
+        "name":"The Works Pizza",
+        "varients":[
+            "small" ,
+            "medium" ,
+            "large"],
+        "prices":[
+            {
+                "small":160,
+                "medium" :250,
+                "large" :360
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_84904876.jpg.webp",
+        "description":"The “works” usually involves a wide variety of veggie toppings including onions, olives, and mushrooms, plus bacon and pepperoni."
+    }
+]
